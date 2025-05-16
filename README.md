@@ -1,4 +1,5 @@
 # AmazonProyecto
+Descripción general del proyecto de pruebas automatizadas para Amazon.
 
 Este proyecto contiene pruebas automatizadas para Amazon utilizando Selenium WebDriver con un enfoque BDD (Behavior-Driven Development) implementado con Cucumber.
 
