@@ -1,4 +1,5 @@
 package pages;
+// Clase PaginaAmazon: encapsula la interacción con la interfaz web (Page Object)
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
