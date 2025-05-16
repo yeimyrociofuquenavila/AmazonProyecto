@@ -1,4 +1,5 @@
 package utilidades;  // Declara el paquete 'utilidades' al que pertenece esta clase
+// Clase Reporte: genera reportes visuales con ExtentReports
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
