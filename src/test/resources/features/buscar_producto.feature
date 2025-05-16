@@ -1,4 +1,6 @@
 # language: es
+  # Escenario para verificar la búsqueda de un producto en Amazon
+
 Característica: Búsqueda y carga de producto al carrito
 
   Antecedentes:
