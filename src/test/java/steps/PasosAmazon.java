@@ -1,4 +1,5 @@
 package steps;
+// Clase PasosAmazon: define la lógica de automatización para cada paso del escenario
 
 import com.aventstack.extentreports.ExtentTest;
 import io.cucumber.java.After;
