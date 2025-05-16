@@ -6,6 +6,7 @@ package utilidades;
  * relacionados con la operación de agregar elementos al carrito de compras.
  */
 public class AgregarAlCarritoException extends Exception {
+// Excepción personalizada para errores al agregar productos al carrito
 
     /**
      * Constructor que crea una nueva excepción con un mensaje descriptivo.
