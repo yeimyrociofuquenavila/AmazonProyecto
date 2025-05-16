@@ -1,4 +1,5 @@
 package runners;  // Define el paquete "runners" donde se encuentra esta clase.
+// Clase RunCucumberTest: punto de entrada centralizado para la ejecución de pruebas
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
