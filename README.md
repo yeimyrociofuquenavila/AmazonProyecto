@@ -36,6 +36,7 @@ Para ejecutar este proyecto, necesitas tener instalado:
 1. JDK 21
 2. Maven 3.6.0 o superior
 3. Un navegador web compatible (Chrome, Firefox, Edge)
+4. IDE IntelliJ IDEA Community Edition 2025.1
 
 ## Configuración del Entorno
 

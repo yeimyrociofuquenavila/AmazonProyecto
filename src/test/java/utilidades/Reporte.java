@@ -11,7 +11,7 @@ public class Reporte {  // Define la clase pública 'Reporte'
 
     static {  // Bloque estático que se ejecuta cuando la clase es cargada por primera vez
         // Inicializa el reporter de tipo Spark (HTML moderno)
-        ExtentSparkReporter spark = new ExtentSparkReporter("reports/cucumber/index.html");  // Crea un nuevo reporter Spark que guardará el informe en la ruta especificada
+        ExtentSparkReporter spark = new ExtentSparkReporter("reports/ExtentReports/index.html");  // Crea un nuevo reporter Spark que guardará el informe en la ruta especificada
         extent = new ExtentReports();  // Inicializa la instancia de ExtentReports
         extent.attachReporter(spark);  // Asocia el reporter Spark con la instancia de ExtentReports
     }
